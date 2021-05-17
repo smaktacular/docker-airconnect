@@ -4,7 +4,7 @@ This is a dockerized version of AirConnect (https://github.com/philippe44/AirCon
 
 ## How to launch
 
-Simply run `docker run -d --net="host" swilsonau/docker-airconnect` on your Docker host.
+Simply run `docker run -d --net="host" smaktacular/docker-airconnect` on your Docker host.
 
 ## Configuration
 
